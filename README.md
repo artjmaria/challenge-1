@@ -2,7 +2,7 @@
 
 This application is a webpage for Horiseon. It showcases the company's products and services. 
 
-The a snippet of the webpage is below:
+A snippet of the webpage is below:
 
 ![alt text](./assets/images/webpage_screenshot.png "Horiseon webpage screenshot")
 
