@@ -1,16 +1,16 @@
 /* Universal selector, selects all elements */
-
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-
+/* Body styling background color */
 body {
     background-color: #d9dcd6;
 }
 
+/* Apply styles to header + navigation */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -43,6 +43,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* Ending to header + navigation */
 
 a {
     color: #ffffff;
@@ -53,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero/Jumbotron */
 .hero {
     height: 800px;
     width: 100%;
@@ -71,13 +73,26 @@ p {
     float: right;
     margin-left: 25px;
 }
+/* End hero */
 
+/* Content styling section */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+
+
+
+
+
+
+
+
+
+
+/* Benefits aside styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -191,6 +206,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer styling */
 .footer {
     padding: 30px;
     clear: both;
